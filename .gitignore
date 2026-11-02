@@ -1,0 +1,28 @@
+# Gradle
+.gradle/
+.kotlin/
+build/
+local.properties
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Build output
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Release signing
+keystore.properties
+*.jks
+*.keystore
